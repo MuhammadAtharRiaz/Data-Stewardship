@@ -1,0 +1,14 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Fraud Detection in Online Transactions",
+  "description": "Machine learning model to detect fraudulent transactions using structured CSV data.",
+  "codeRepository": "https://github.com/yourusername/fraud-detection-online",
+  "license": "https://opensource.org/licenses/MIT",
+  "programmingLanguage": "Python",
+  "author": {
+    "@type": "Person",
+    "name": "Your Name"
+  },
+  "dateCreated": "2025-04-29"
+}
